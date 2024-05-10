@@ -21,5 +21,5 @@ For more details on the Silent Face Anti-Spoofing model and its training archite
 - util.py: Contains utility functions used by the main script, such as creating buttons, labels, and handling messages.
 - test.py: Script for testing antispoofing models.
 # Acknowledgements
-- This project utilizes the Silent Face Anti-Spoofing model developed by MiniVision AI. For more information on the model architecture, performance, and usage, please refer to the Silent Face Anti-Spoofing GitHub repository.
+- This project utilizes the Silent Face Anti-Spoofing model developed by MiniVision AI. For more information on the model architecture, performance, and usage, please refer to https://github.com/minivision-ai/Silent-Face-Anti-Spoofing
 - This project utilizes the face_recognition library for facial recognition functionality.
