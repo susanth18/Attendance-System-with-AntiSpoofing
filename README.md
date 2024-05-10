@@ -1,7 +1,7 @@
 # Facial Recognition Attendance System with Antispoofing
 This project is a Python-based facial recognition attendance system with an added layer of antispoofing functionality. The system allows users to log in and log out using their facial features and maintains an attendance log. It utilizes the Silent Face Anti-Spoofing model developed by MiniVision AI for enhanced security and reliability.
 ![Real](https://drive.google.com/uc?id=1LFtmArv5PPcFUUTa5SwO_WmVTia3fc23)
-![Spoof](https://drive.google.com/uc?id=1LFtmArv5PPcFUUTa5SwO_WmVTia3fc23)
+![Spoof](https://drive.google.com/uc?id=1Dfhpn6D2c6Gln3LkIU8ZsW2DynwCfvti)
 
 
 # Introduction
